@@ -1,0 +1,4 @@
+# Add one URL per line — scraper runs daily at 8am UTC via cron
+# Example:
+# https://somecoffeeshop.com
+# https://somedentalclinic.com
